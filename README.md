@@ -23,8 +23,8 @@ Aperfeiçoar a prática de Testes Funcionais e automatizados em sites e aplicaç
 
 |ID #| Nome | Descrição | Status |
 |-|-|-|-|
-|PR001|E-commerce Atomation Pratice|Testes funcionais na plataforma|Em progresso|
-|PR002|Train delay or schedule changes must be updated in less than 3 seconds|Client|Priority 1|
+|PR001|Testes E-commerce Atomation Pratice|Testes funcionais na plataforma demonstraçao da Selenium|Em progresso|
+|PR002|Swag Labs - Sauce demo web store |Testes funcionaise automatizados na plataforma de demonstraçao da Sauce Labs|A fazer|
 
 
 
