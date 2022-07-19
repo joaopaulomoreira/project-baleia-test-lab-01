@@ -23,7 +23,7 @@ Aperfeiçoar a prática de Testes Funcionais e automatizados em sites e aplicaç
 
 |ID #| Nome | Descrição | Status |
 |-|-|-|-|
-|PRJ001|Testes E-commerce Atomation Pratice|Testes funcionais na plataforma demonstraçao da Selenium|Em progresso|
+|[PRJ001](https://github.com/joaopaulomoreira/project-btl-prj001/blob/main/README.md)|Testes E-commerce Atomation Pratice|Testes funcionais na plataforma demonstraçao da Selenium|Em progresso|
 |PRJ002|Swag Labs - Sauce demo web store |Testes funcionaise automatizados na plataforma de demonstraçao da Sauce Labs|A fazer|
 
 
