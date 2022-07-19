@@ -10,12 +10,11 @@
 
 ## O Lab
 
-Este repositório é uma inciativa de compartilhar exercícios práticos e conteúdos sobre *Teste de Software* sobre a perspectiva de projetos. Como um Lab ele é aberto a experiências, simulações e POCs com o propósito de estudos. 
+Este repositório é um espaço para resgistro e compartilhameto de conteúdos e exercícios práticos sobre *Testes e Qualidade de Software* sob a perspectiva de projetos. Como um Lab ele é aberto a novas experiências, simulações e POCs (Proof of Concept) com o propósito de estudos. 
 
 ## Objetivos
 
-Aperfeiçoar a prática de Testes Funcionais e automatizados em sites e aplicações web, utilizando tecnologias e ferramentas como: Selenium, JUnit, Robot Framework, Cypress, Java, Python e outras.
-
+O principal objetivo é aperfeiçoar a prática de Testes manual e automatizado em diversos sites e aplicações web, utilizando tecnologias e ferramentas de suporte a essas tarefas como: Selenium, JUnit, Robot Framework, Cypress, Java, Python entre outras.
 
 
 ### Projetos em desenvolvimento
@@ -23,8 +22,8 @@ Aperfeiçoar a prática de Testes Funcionais e automatizados em sites e aplicaç
 
 |ID #| Nome | Descrição | Status |
 |-|-|-|-|
-|[PRJ001](https://github.com/joaopaulomoreira/project-btl-prj001/blob/main/README.md)|Testes E-commerce Atomation Pratice|Testes funcionais na plataforma demonstraçao da Selenium|Em progresso|
-|PRJ002|Swag Labs - Sauce demo web store |Testes funcionaise automatizados na plataforma de demonstraçao da Sauce Labs|A fazer|
+|[PRJ001](https://github.com/joaopaulomoreira/project-btl-prj001/blob/main/README.md)|Testes no web site e-commerce Automation Pratice|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|Em progresso|
+|PRJ002|Swag Labs - Sauce demo web store |Testes funcionais e automatizados na plataforma de demonstraçao da Sauce Labs|A fazer|
 
 
 
