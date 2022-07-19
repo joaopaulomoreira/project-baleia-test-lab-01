@@ -4,7 +4,7 @@
  <img src="logo.png?raw=true" alt="Baleia Test Lab Logo" width="40%" height="40%" />
 </p>
 
-## Projeto - #PR001 - Web e-commerce - Atomation Pratice
+## Projeto de Testes - #PR001 - E-commerce web site - Atomation Pratice
 
 
 Fig(Print do site ou wireframe)
