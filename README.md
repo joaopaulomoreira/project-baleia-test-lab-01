@@ -10,11 +10,11 @@
 
 ## O Lab
 
-Este repositório é um espaço para resgistro e compartilhameto de conteúdos e exercícios práticos sobre *Testes e Qualidade de Software* sob a perspectiva de projetos. Como um Lab ele é aberto a novas experiências, simulações e POCs (Proof of Concept) com o propósito de estudos. 
+Este repositório é um espaço para registro e compartilhamento de conteúdos e exercícios práticos sobre *Testes e Qualidade de Software* sob a perspectiva de projetos. Como um Lab ele é aberto a novas experiências, simulações e POCs (Proof of Concept) com o propósito de estudos. 
 
 ## Objetivos
 
-O principal objetivo é aperfeiçoar a prática de Testes manual e automatizado em diversos sites e aplicações web, utilizando tecnologias e ferramentas de suporte a essas tarefas como: Selenium, JUnit, Robot Framework, Cypress, Java, Python entre outras.
+O principal objetivo é aperfeiçoar a prática de Testes manuais e automatizados em diversos sites e aplicações web, utilizando em conjunto tecnologias e ferramentas de suporte a essas tarefas como: Selenium, JUnit, Robot Framework, Cypress, Java, Python entre outras.
 
 
 ### Projetos em desenvolvimento
