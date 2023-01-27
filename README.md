@@ -1,12 +1,4 @@
-# Baleia's Test Lab
-
-<p align="center">
- <img src="logo.png?raw=true" alt="Baleia Test Lab Logo" width="40%" height="40%" />
-</p>
-
-> [...] Baleia arrebitou as orelhas, arregaçou as ventas, sentiu cheiro de preás, farejou um minuto, localizou-os no morro próximo e saiu correndo.
-> 
-> Graciliano Ramos. Vidas secas.
+# Traning Test Lab
 
 ## O Lab
 
